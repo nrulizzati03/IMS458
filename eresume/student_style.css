@@ -89,12 +89,6 @@ main {
     text-align: center;
 }
 
-.student-section h1 {
-    font-size: 2.5rem;
-    margin-bottom: 30px;
-    color: #005f73;
-}
-
 
 .student-container {
     display: flex;
@@ -110,10 +104,6 @@ main {
     padding: 20px;
     max-width: 350px;
     text-align: left;
-}
-
-.profile-card h2, .course-details h4 {
-    color: #0077b6;
 }
 
 .profile-image {
