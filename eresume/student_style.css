@@ -94,7 +94,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px;
+    gap: 20px;
 }
 
 .profile-card, .course-details {
